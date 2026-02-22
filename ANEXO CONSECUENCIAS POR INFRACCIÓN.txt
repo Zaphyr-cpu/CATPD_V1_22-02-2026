@@ -1,0 +1,27 @@
+ANEXO: CONSECUENCIAS POR INFRACCIÓN DE DERECHOS DE AUTOR
+Este documento detalla las medidas que el autor de CATDP tomará en caso de detectar una copia, distribución o uso no autorizado de los archivos contenidos en este proyecto.
+
+1. Acciones Administrativas (Plataformas)
+Cualquier usuario que aloje contenido robado de este juego se enfrentará a:
+
+Notificación DMCA (Digital Millennium Copyright Act): Solicitud inmediata de retirada del contenido ante el proveedor (Roblox, Itch.io, Google Drive, etc.).
+
+Cierre de Cuenta: Las plataformas suelen suspender o banear permanentemente a los usuarios que reinciden en el robo de propiedad intelectual.
+
+Pérdida de Ingresos: Cualquier ganancia generada por el juego robado será congelada o reclamada por el autor original.
+
+2. Consecuencias Legales y Penales
+El robo de software y activos digitales está tipificado como un delito en la mayoría de las legislaciones internacionales:
+
+Indemnización por Daños y Perjuicios: El infractor podría ser obligado legalmente a pagar una compensación económica por el uso no autorizado y el daño a la marca del juego original.
+
+Responsabilidad Civil: El autor se reserva el derecho de iniciar procesos legales para recuperar el control de su obra y obtener una reparación financiera.
+
+3. Rastreo y Evidencia Digital
+Se informa a los posibles infractores que:
+
+Este juego contiene metadatos ocultos y scripts de verificación que permiten identificar el origen de los archivos incluso si se les cambia el nombre.
+
+El autor mantiene un registro histórico de versiones con sellos de tiempo (timestamps) que sirven como prueba irrefutable ante un tribunal o equipo de soporte.
+
+ADVERTENCIA FINAL: "Ignorar la ley no exime de su cumplimiento". Al acceder a estos archivos, usted acepta que cualquier uso fuera de los términos aquí establecidos tendrá consecuencias graves e inmediatas.
